@@ -1,0 +1,27 @@
+{
+  "name": "cliexe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "bin": {
+    "greet": "./bin/index.js"
+},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malikasinger1/CLI-Executable-global-npm-module.git"
+  },
+  "author": "M Inzamam Malik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malikasinger1/CLI-Executable-global-npm-module/issues"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "colors": "^1.2.1",
+    "lodash": "^4.17.5"
+  },
+  "homepage": "https://github.com/malikasinger1/CLI-Executable-global-npm-module#readme"
+}
